@@ -1,0 +1,272 @@
+.dark .MuiPaper-root{
+    background-color: black;
+    color: white !important;
+}
+
+.MuiPaper-root{
+    background-color: white;
+    color: black !important;
+    /* width: 50%; */
+}
+
+.MuiPaper-elevation1{
+    box-shadow: none !important;
+}
+
+.dark .MuiTab-wrapper{
+    font-weight: 700;
+}
+
+.PrivateTabIndicator-colorSecondary-3{
+    background-color: #3772FF !important;
+}
+
+.body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.border-r{
+    padding: 2rem 3rem;
+    border-right: 1px solid #222b45;
+}
+
+.a-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bx-wallet-alt{
+    color: #3772FF;
+    font-size: 1.2rem;
+    margin: 10px;
+}
+
+.side-div{
+    border-radius: 12.25px;
+    background-color: #191B20;
+    display: flex;
+}
+
+.side-div span{
+    color: white;
+    margin: 8px 0;
+}
+
+.side-div button{
+    color: #3772FF;
+    margin: 8px 10px;
+    padding: 0 10px;
+    background-color: #A3E3FF;
+}
+
+.tutorial{
+    background-color: #A3E3FF;
+    border-radius: 10px;
+    margin: 30px 0;
+    margin-right: 20px;
+}
+
+.tutorial p{
+    padding: 20px;
+    margin: 0;
+}
+
+.tutorial button{
+    margin: 0 20px;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    background-color: white;
+}
+
+.imgs{
+    position: absolute;
+    width: 162px;
+    margin-top: -4%;
+    margin-left: 30%;
+}
+
+.close{
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    width: 25px;
+    top: 100px;
+    left: 65%;
+    height: 25px;    
+    padding-left: 7px;
+}
+
+.boxi{
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 24px;
+    color: black;
+    /* margin-right: 44px; */
+}
+
+.dark .boxi{
+    background-color: #191B20;
+    border-radius: 24px;
+    color: white;
+    /* margin-right: 44px; */
+}
+
+.boxi h5{
+    padding: 27px 0 0 27px;
+}
+
+.boxi .r2{
+    display: flex;
+    padding: 0 27px;
+    justify-content: space-between;
+}
+
+
+.boxi .r2 span{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.boxi .r2 button{
+    font-size: medium;
+    font-weight: 600;
+}
+
+.boxi .r3 {
+    padding: 0 27px;
+    display: flex;
+}
+
+.boxi .r3 .btnx{
+    background-color: #353945;
+    color: white;
+    border-radius: 11px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 27px;
+}
+
+.bx-right-top-arrow-circle{
+    font-size: x-large;
+}
+
+.money {
+    width: 25px;
+}
+
+.referral{
+    margin: 0;
+    margin-top: 20px;
+}
+
+.referral-title{
+    padding: 20px 22px;
+}
+
+.referral-title span{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.referral .desc{
+    font-size: 16px;
+    margin: 20px 22px;
+}
+
+.buttonIn{
+    display: flex;
+}
+
+.dark .buttonIn input{
+    width: 88%;
+    margin: 20px;
+    outline: none;
+    border-radius: 20px;
+    padding: 5%;
+    border: none;
+    background-color: #242731;
+    color: white;
+}
+
+.buttonIn input{
+    width: 88%;
+    margin: 20px;
+    outline: none;
+    border-radius: 20px;
+    padding: 5%;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+.dark .buttonIn i{
+    margin-left: -18%;
+    margin-top: 10%;
+    font-size: x-large;
+}
+
+.buttonIn i{
+    color: white;
+    margin-left: -18%;
+    margin-top: 10%;
+    font-size: x-large;
+}
+
+.col-6{
+    padding: 0;
+}
+
+.bit-table{
+    margin-top: 50px;
+}
+
+.right .btn{
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid #3772FF;
+    color: black;
+}
+
+.dark .right .btn{
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid #3772FF;
+    color: white;
+}
+
+.bx-left-arrow-alt{
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+.dark .bx-left-arrow-alt{
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+.r1{
+    margin: 0 58px;
+}
+
+.r1 button{
+    font-size: 14px;
+}
+
+.r1 .inp{
+    border: 1px solid #242731;
+    margin-left: 20px;
+    color: black;
+}
+
+.dark .r1 .inp{
+    border: 1px solid #242731;
+    margin-left: 20px;
+    color: white;
+}
+
+.cstm{
+    color: black;
+}
+
+.dark .cstm{
+        color: white;
+}
